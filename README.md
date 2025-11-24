@@ -12,7 +12,7 @@ A full-stack Quiz Application with user authentication, role-based access (Admin
 - Next.js (App Router)
 
 **Backend**  
-- NestJS  
+- Next.js  
 - MongoDB (Mongoose ODM)  
 - JWT Authentication  
 - Role-based Access Control
